@@ -5,6 +5,8 @@
  * @format
  * @flow
  * @lint-ignore-every XPLATJSCOPYRIGHT1
+ * @author singcl <iambabyer@gmail.com>
+ * @see https://github.com/singcl
  */
 
 import React, { Component } from 'react'
